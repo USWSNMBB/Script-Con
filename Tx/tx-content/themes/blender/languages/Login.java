@@ -244,4 +244,6 @@ M: All right.  I told you, if you kept making those horrible faces,
    they'd freeze that way.  And now they have.
 L: They have!?
 B: Our faces are frozen?
-M: Yes, they are.  Go look in the mirror and see for yourselves.
+M: Yes, they are.  Go look in the mirror and see for yourselves.Shoe making is the process of making Foot Wear. Originally, shoes were made one at a time by hand. Traditional handicraft shoemaking has now been largely superseded in volume of shoes produced by industrial mass production of footwear, but not necessarily in quality, attention to detail, or craftsmanship.
+
+Shoemakers or cordwainers (cobblers being those who repair shoes) may produce a range of footwear items, including shoes, boots, sandals, clogs and moccasins. Such items are generally made of leather, wood, rubber, plastic, jute or other plant material, and often consist of multiple parts for better durability of the sole, stitched to a leather upper.
