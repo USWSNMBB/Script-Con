@@ -128,4 +128,63 @@ Like all catalysts, enzymes increase the rate of a reaction by lowering its acti
 
 Enzyme activity can be affected by other molecules: decreased by inhibitors or increased by activators. Many drugs and poisons are enzyme inhibitors. Activity is also affected by temperature, pressure, chemical environment (e.g., pH), and the concentration of substrate. Some enzymes are used commercially, for example, in the synthesis of antibiotics. In addition, some household products use enzymes to speed up biochemical reactions (e.g., enzymes in biological washing powders break down protein or fat stains on clothes; enzymes in meat tenderizers break down proteins into smaller molecules, making the meat easier to chew). The study of enzymes is called enzymology.Shoe making is the process of making Foot Wear. Originally, shoes were made one at a time by hand. Traditional handicraft shoemaking has now been largely superseded in volume of shoes produced by industrial mass production of footwear, but not necessarily in quality, attention to detail, or craftsmanship.
 
-Shoemakers or cordwainers (cobblers being those who repair shoes) may produce a range of footwear items, including shoes, boots, sandals, clogs and moccasins. Such items are generally made of leather, wood, rubber, plastic, jute or other plant material, and often consist of multiple parts for better durability of the sole, stitched to a leather upper.
+Shoemakers or cordwainers (cobblers being those who repair shoes) may produce a range of footwear items, including shoes, boots, sandals, clogs and moccasins. Such items are generally made of leather, wood, rubber, plastic, jute or other plant material, and often consist of multiple parts for better durability of the sole, stitched to a leather upper.% Marge steps in.
+
+M: Are you kids making ugly faces?
+B: Maybe.
+M: Well, you know.  If you keep making those faces, you'll freeze that way.
+   You'll be stuck with a horrible face forever.
+
+% Marge leaves.
+
+L: Do you think Mom was telling the truth?
+B: Mom wouldn't lie.
+
+% The kids consider this for a few seconds.
+
+B+L+A: All right!
+
+% [End of Act One.  Time: 0:30]
+%
+% [Act Two cut in syndication.  They continue making faces, and Marge
+% returns to tell them to knock it off.  When she leaves, Bart and Lisa
+% try to imitate her scowl; their attempts pale next to Maggie's
+% recreation (``Look at this!'').]
+%
+% Same as before.
+
+B: Watch this scary face.
+
+% Bart makes a scary face.
+
+L: Oh yeah?  That's not scary.
+
+% Lisa makes a scary face.
+
+B: Oh yeah?  That's not scary.
+
+% Bart makes another scary face.
+
+L: Oh yeah?  That's not...
+
+% The door creaks open.  It's Marge, with a very scary angry face.
+
+B+L: Waaauugh!  Scary!!
+
+% [End of Act Three.  Time: 0:46]
+
+L: I call this face, ``The Howler Monkey''.
+
+% Lisa does a pretty good semblance.
+
+B: I call this face, ``Dad''.
+
+% Bart does a very good job.
+%
+% Marge bursts in.
+
+M: All right.  I told you, if you kept making those horrible faces,
+   they'd freeze that way.  And now they have.
+L: They have!?
+B: Our faces are frozen?
+M: Yes, they are.  Go look in the mirror and see for yourselves.
