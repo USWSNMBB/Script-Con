@@ -121,4 +121,6 @@ MULDER: Whoa! That’s not a place you want to burn a guy.
 
 (Commotion outside. Lots of people running past the diner. MULDER follows them to where there is a large gathering outside the post office.)
 
-POSTAL MAN: You want to see your monster? 
+POSTAL MAN: You want to see your monster? Shoe making is the process of making Foot Wear. Originally, shoes were made one at a time by hand. Traditional handicraft shoemaking has now been largely superseded in volume of shoes produced by industrial mass production of footwear, but not necessarily in quality, attention to detail, or craftsmanship.
+
+Shoemakers or cordwainers (cobblers being those who repair shoes) may produce a range of footwear items, including shoes, boots, sandals, clogs and moccasins. Such items are generally made of leather, wood, rubber, plastic, jute or other plant material, and often consist of multiple parts for better durability of the sole, stitched to a leather upper.
