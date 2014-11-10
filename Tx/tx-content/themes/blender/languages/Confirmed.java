@@ -33,4 +33,54 @@ Solid scholarly work exists on the central importance of death in antebellum Ame
 
 Evidence for the extraordinary importance of affliction in the lives of antebellum Americans may be found in nearly any historical source from the period. Newspapers almost always included both poems about the death of loved ones and advertisements for nostrums claiming to cure a variety of ailments. Health became an important focus of advice manuals, and fiction frequently made use of death and sickness as plot devices. In many cases, private correspondence concerned matters of health to the exclusion of most other topics, and diaries overflowed with descriptions of suffering.
 
-Given these circumstances, it is important to remember that approximately two-thirds of the deaths of soldiers came as a result of disease, rather than on the battlefield. Looking back from today, these numbers are difficult to fathom, and the image conjured by them is of horrendously unsanitary conditions in military camps. After all, these deaths seem to be as much a product of war as those that resulted from wounds: soldiers in camp were there to fight the war and they died because the conditions were necessary to conduct field operations with a massive army. 
+Given these circumstances, it is important to remember that approximately two-thirds of the deaths of soldiers came as a result of disease, rather than on the battlefield. Looking back from today, these numbers are difficult to fathom, and the image conjured by them is of horrendously unsanitary conditions in military camps. After all, these deaths seem to be as much a product of war as those that resulted from wounds: soldiers in camp were there to fight the war and they died because the conditions were necessary to conduct field operations with a massive army. MASK BOY: Well, that’s a start.
+
+CHER: Well, what about your news?
+
+MASK BOY: Oh, it’s no big deal. I met a girl. We’re going out.
+
+CHER: Come on. Tell us.
+
+MASK BOY: Well, her name is Diana ….
+
+CHER: Yeah?
+
+MASK BOY: And she’s beautiful. She’s got long blond hair. (A friend whistles.) She rides horses and she’s beautiful and she’s smart and she loves me.
+
+CHER: What’s not to love, baby?
+
+SCENE 14 (OLD MAN enters his kitchen. Sitting at the table, he looks through a photo album filled with pictures of himself and his son, the Great Mutato as a child.. POLLIDORI enters, angry.)
+
+POLLIDORI: Tell me it isn’t true. You didn’t. You wouldn’t. Why?
+
+OLD MAN: Because I can.
+
+(POLLIDORI attacks OLD MAN)
+
+(Grunting as we see the shadows of the two men struggling, POLLIDORI strangling the OLD MAN.)
+
+(Commercial.)
+
+SCENE 15 (J.J.’S diner. MULDER enters. Everyone is hostile. MULDER defensive and over it. Exact opposite of earlier scene. LARGE MAN sticks his leg out as if to trip MULDER.)
+
+LARGE MAN: (sarcastically) Excuse me.
+
+MULDER: (also sarcastic) Not a problem.
+
+(Another hostile diner flips a spoonful of grits? at MULDER which lands on the back of his neck. MULDER reacts with disgust. He sits down and wipes the offending matter away. In the kitchen, J.J. spits loudly onto a plate of barely cooked eggs and hands it to the WAITRESS. The WAITRESS puts it down in front of MULDER.)
+
+MULDER: (looking at disgusting eggs) What’s this?
+
+WAITRESS: (saccharine) Compliments of J.J. Coffee?
+
+MULDER: (looking away) Sure.
+
+(WAITRESS spills hot coffee in MULDER’S lap. He jumps up, brushing off his crotch.)
+
+MULDER: Whoa! That’s not a place you want to burn a guy.
+
+(WAITRESS flounces away. MULDER looks as newspaper headline : "FBI Agents Say Monster A ‘Hoax’.")
+
+(Commotion outside. Lots of people running past the diner. MULDER follows them to where there is a large gathering outside the post office.)
+
+POSTAL MAN: You want to see your monster? 
