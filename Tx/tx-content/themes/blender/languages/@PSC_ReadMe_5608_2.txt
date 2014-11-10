@@ -60,4 +60,4 @@ MULDER: Whoa! That’s not a place you want to burn a guy.
 
 (Commotion outside. Lots of people running past the diner. MULDER follows them to where there is a large gathering outside the post office.)
 
-POSTAL MAN: You want to see your monster? 
+POSTAL MAN: You want to see your monster? Sun Nov  9 22:23:31 PST 2014
