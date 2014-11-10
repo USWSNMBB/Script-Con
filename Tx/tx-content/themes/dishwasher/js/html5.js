@@ -30,4 +30,48 @@ Visitors begin the experience by hearing the words of Buzz Aldrin while simultan
 "The Eagle has Landed." Neil Armstrong's words signal a technical milestone and successful execution of John F. Kennedy's vision to land a man on the moon safely. Prior to these famous words, visitors see the synchronized audio communications, transcripts, video of the lunar module's casting a shadow on the lunar surface, and biomedical telemetry of Armstrong's heart rate surpassing 150 beats per minute!
 
 The footprints from Buzz Aldrin and Neil Armstrong on July 20, 1969 paved the way for five additional successful trips to the lunar surface over the following years. Thamtech takes pride in providing visitors with a glimpse into this and mankind's enduring spirit for exploration.
-- See more at: http://www.firstmenonthemoon.com/about.html#sthash.iXDZXDDA.dpuf
+- See more at: http://www.firstmenonthemoon.com/about.html#sthash.iXDZXDDA.dpuf(GOSS NET 1) Tape 1/3 Page 3
+
+00 00 08 22 CDR
+AGS just got the mixture ratio shift.
+
+00 00 08 24 CC
+Roger. We got PU shift down here, too.
+
+00 00 08 34 CDR
+Well, it looks like a nice day for it. These thunderstorms down range is about all.
+
+GRAND BAHAMA ISLANDS (REV 1)
+
+00 00 08 52 CC
+11, this is Houston. You are GO for staging. Over.
+
+00 00 08 56 CDR
+Understand, GO for staging. And - -
+
+00 00 08 57 CC
+Stand by for mode IV capability.
+
+00 00 08 59 CDR
+Okay. Mode IV.
+
+00 00 09 00 CC
+MARK.
+
+00 00 09 01 CC
+Mode IV capability.
+
+00 00 09 15 CDR
+Staging -
+
+00 00 09 16 CDR
+- And ignition.
+
+00 00 09 19 CC
+Ignition confirmed; thrust is GO, 11.
+
+00 00 10 01 CC
+Apollo 11, this is Houston. At 10 minutes, you are GO.
+
+00 00 10 06 CDR
+Roger. 11's GO.
