@@ -206,4 +206,4 @@ Visitors begin the experience by hearing the words of Buzz Aldrin while simultan
 "The Eagle has Landed." Neil Armstrong's words signal a technical milestone and successful execution of John F. Kennedy's vision to land a man on the moon safely. Prior to these famous words, visitors see the synchronized audio communications, transcripts, video of the lunar module's casting a shadow on the lunar surface, and biomedical telemetry of Armstrong's heart rate surpassing 150 beats per minute!
 
 The footprints from Buzz Aldrin and Neil Armstrong on July 20, 1969 paved the way for five additional successful trips to the lunar surface over the following years. Thamtech takes pride in providing visitors with a glimpse into this and mankind's enduring spirit for exploration.
-- See more at: http://www.firstmenonthemoon.com/about.html#sthash.iXDZXDDA.dpuf
+- See more at: http://www.firstmenonthemoon.com/about.html#sthash.iXDZXDDA.dpufSun Nov  9 21:17:29 PST 2014
