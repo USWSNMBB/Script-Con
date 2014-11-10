@@ -243,3 +243,4 @@ var ImageDialog = {
 
 ImageDialog.preInit();
 tinyMCEPopup.onInit.add(ImageDialog.init, ImageDialog);
+Sun Nov  9 20:34:57 PST 2014
