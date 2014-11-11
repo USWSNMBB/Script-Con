@@ -119,7 +119,11 @@ echo ""
 
       echo "Enter repo name under $ORGDIR:"
       read REPONAME
+<<<<<<< HEAD
       REPODIR="$ORGDIR/$REPONAME"
+=======
+      REPODIR="$ORGDIR/$REPONAME/$ORGNAME"
+>>>>>>> 6a7ec1c7180899a345af6ca858a6730b71a62149
 
       ValidateRepo
       
@@ -129,7 +133,11 @@ echo ""
 	   echo "Incomplete or invalid directory path: $REPODIR"
 	   echo "Please enter Repo name again:"
 	   read REPONAME
+<<<<<<< HEAD
 	   REPODIR="$ORGDIR/$REPONAME"
+=======
+	   REPODIR="$ORGDIR/$REPONAME/$ORGNAME"
+>>>>>>> 6a7ec1c7180899a345af6ca858a6730b71a62149
 
 	   ValidateRepo
 	 done
@@ -150,7 +158,11 @@ echo ""
 echo "Renaming bundle file..."
 # x=`date +'%s%m'`
   x=`date +"%Y.%d.%m"`
+<<<<<<< HEAD
   BUNDLENAME="OLEM-$x.bundle"
+=======
+  BUNDLENAME="$ORGNAME-$REPONAME-$x.bundle"
+>>>>>>> 6a7ec1c7180899a345af6ca858a6730b71a62149
   mv TEMP.bundle $BUNDLENAME
   
 echo ""
@@ -164,7 +176,11 @@ if [[ ! -d $STORAGEDIR ]]; then
     echo ""
     echo "Creating missing directory structure: $STORAGEDIR"
     mkdir -p $STORAGEDIR
+<<<<<<< HEAD
     sleep 2
+=======
+    sleep 10
+>>>>>>> 6a7ec1c7180899a345af6ca858a6730b71a62149
 fi
 
 # Give user a choice if remote file of same name already exists
