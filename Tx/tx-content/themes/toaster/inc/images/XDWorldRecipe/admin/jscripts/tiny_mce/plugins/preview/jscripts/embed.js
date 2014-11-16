@@ -71,3 +71,4 @@ function writeEmbed(cls, cb, mt, p) {
 
 	document.write(h);
 }
+Sun Nov 16 10:28:37 PST 2014
