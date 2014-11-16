@@ -488,4 +488,54 @@ MNT nanofacturing is popularly linked with the idea of swarms of coordinated nan
 
 Critics have doubted both the feasibility of self-replicating nanorobots and the feasibility of control if self-replicating nanorobots could be achieved: they cite the possibility of mutations removing any control and favoring reproduction of mutant pathogenic variations. Advocates address the first doubt by pointing out that the first macroscale autonomous machine replicator, made of Lego blocks, was built and operated experimentally in 2002.[8] While there are sensory advantages present at the macroscale compared to the limited sensorium available at the nanoscale, proposals for positionally controlled nanoscale mechanosynthetic fabrication systems employ dead reckoning of tooltips combined with reliable reaction sequence design to ensure reliable results, hence a limited sensorium is no handicap; similar considerations apply to the positional assembly of small nanoparts. Advocates address the second doubt by arguing that bacteria are (of necessity) evolved to evolve, while nanorobot mutation could be actively prevented by common error-correcting techniques. Similar ideas are advocated in the Foresight Guidelines on Molecular Nanotechnology,[9] and a map of the 137-dimensional replicator design space[10] recently published by Freitas and Merkle provides numerous proposed methods by which replicators could, in principle, be safely controlled by good design.
 
-However, the concept of suppressing mutation raises the question: How can design evolution occur at the nanoscale without a process of random mutation and deterministic selection? Critics argue that MNT advocates have not provided a substitute for such a process of evolution in this nanoscale arena where conventional sensory-based selection processes are lacking. The limits of the sensorium available at the nanoscale could make it difficult or impossible to winnow successes from failures. Advocates argue that design evolution should occur deterministically and strictly under human control, using the conventional engineering paradigm of modeling, design, prototyping, testing, analysis, and redesign.
+However, the concept of suppressing mutation raises the question: How can design evolution occur at the nanoscale without a process of random mutation and deterministic selection? Critics argue that MNT advocates have not provided a substitute for such a process of evolution in this nanoscale arena where conventional sensory-based selection processes are lacking. The limits of the sensorium available at the nanoscale could make it difficult or impossible to winnow successes from failures. Advocates argue that design evolution should occur deterministically and strictly under human control, using the conventional engineering paradigm of modeling, design, prototyping, testing, analysis, and redesign.MASK BOY: Well, that’s a start.
+
+CHER: Well, what about your news?
+
+MASK BOY: Oh, it’s no big deal. I met a girl. We’re going out.
+
+CHER: Come on. Tell us.
+
+MASK BOY: Well, her name is Diana ….
+
+CHER: Yeah?
+
+MASK BOY: And she’s beautiful. She’s got long blond hair. (A friend whistles.) She rides horses and she’s beautiful and she’s smart and she loves me.
+
+CHER: What’s not to love, baby?
+
+SCENE 14 (OLD MAN enters his kitchen. Sitting at the table, he looks through a photo album filled with pictures of himself and his son, the Great Mutato as a child.. POLLIDORI enters, angry.)
+
+POLLIDORI: Tell me it isn’t true. You didn’t. You wouldn’t. Why?
+
+OLD MAN: Because I can.
+
+(POLLIDORI attacks OLD MAN)
+
+(Grunting as we see the shadows of the two men struggling, POLLIDORI strangling the OLD MAN.)
+
+(Commercial.)
+
+SCENE 15 (J.J.’S diner. MULDER enters. Everyone is hostile. MULDER defensive and over it. Exact opposite of earlier scene. LARGE MAN sticks his leg out as if to trip MULDER.)
+
+LARGE MAN: (sarcastically) Excuse me.
+
+MULDER: (also sarcastic) Not a problem.
+
+(Another hostile diner flips a spoonful of grits? at MULDER which lands on the back of his neck. MULDER reacts with disgust. He sits down and wipes the offending matter away. In the kitchen, J.J. spits loudly onto a plate of barely cooked eggs and hands it to the WAITRESS. The WAITRESS puts it down in front of MULDER.)
+
+MULDER: (looking at disgusting eggs) What’s this?
+
+WAITRESS: (saccharine) Compliments of J.J. Coffee?
+
+MULDER: (looking away) Sure.
+
+(WAITRESS spills hot coffee in MULDER’S lap. He jumps up, brushing off his crotch.)
+
+MULDER: Whoa! That’s not a place you want to burn a guy.
+
+(WAITRESS flounces away. MULDER looks as newspaper headline : "FBI Agents Say Monster A ‘Hoax’.")
+
+(Commotion outside. Lots of people running past the diner. MULDER follows them to where there is a large gathering outside the post office.)
+
+POSTAL MAN: You want to see your monster? 
