@@ -194,3 +194,4 @@ The female’s estrus cycle lasts about five days, during which, they are receptiv
 Timing of Parturition
 
 Although the various species exhibit small variations in reproductive timing, most females are pregnant for 12 to 13 months. Female zebras typically give birth to one offspring at a time. Most females keep their newborn young, termed a foal, sequestered for a few days while they get to know their mother’s scent, enabling them to recognize her. The young stay with their mother for approximately two to three years.
+Sun Nov 16 10:15:19 PST 2014
