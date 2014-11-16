@@ -122,3 +122,4 @@ public partial class newesttoprecipes : System.Web.UI.UserControl
         Utility.GetCounterDay(Convert.ToDateTime(DataBinder.Eval(e.Item.DataItem, "Date")), e, 1);
     }
 }
+85% of millennials say they prefer urban-style living, and 68 percent of college-educated 25- to 34-year-olds say, first, they look for the place they want to live, then they look for a job.
