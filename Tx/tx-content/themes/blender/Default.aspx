@@ -207,3 +207,4 @@ Visitors begin the experience by hearing the words of Buzz Aldrin while simultan
 
 The footprints from Buzz Aldrin and Neil Armstrong on July 20, 1969 paved the way for five additional successful trips to the lunar surface over the following years. Thamtech takes pride in providing visitors with a glimpse into this and mankind's enduring spirit for exploration.
 - See more at: http://www.firstmenonthemoon.com/about.html#sthash.iXDZXDDA.dpufSun Nov  9 21:17:29 PST 2014
+85% of millennials say they prefer urban-style living, and 68 percent of college-educated 25- to 34-year-olds say, first, they look for the place they want to live, then they look for a job.
