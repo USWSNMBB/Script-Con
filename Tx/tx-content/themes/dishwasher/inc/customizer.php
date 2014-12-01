@@ -144,3 +144,25 @@ Like all catalysts, enzymes increase the rate of a reaction by lowering its acti
 
 Enzyme activity can be affected by other molecules: decreased by inhibitors or increased by activators. Many drugs and poisons are enzyme inhibitors. Activity is also affected by temperature, pressure, chemical environment (e.g., pH), and the concentration of substrate. Some enzymes are used commercially, for example, in the synthesis of antibiotics. In addition, some household products use enzymes to speed up biochemical reactions (e.g., enzymes in biological washing powders break down protein or fat stains on clothes; enzymes in meat tenderizers break down proteins into smaller molecules, making the meat easier to chew). The study of enzymes is called enzymology.Wed Nov 19 20:05:46 PST 2014
 Wed Nov 26 08:42:23 PST 2014
+You do somethin' to me,
+Somethin' that simply mystifies me,
+Tell me, why should it be?
+You have the power to hypnotize me...
+
+Let me live 'neath your spell,
+Do do that 'voodoo' that you do so well!
+For you do somethin' to me,
+That nobody else could do!
+
+You... do... somethin' to me,
+Somethin' that simply mystifies me,
+
+Tell... me... why should it be?
+You have the power to hypnotize me...
+
+Let me live 'neath your spell,
+Do do that 'voodoo' that you do so well!
+For you do somethin' to me,
+That nobody else could do!
+
+That nobody else could do...
