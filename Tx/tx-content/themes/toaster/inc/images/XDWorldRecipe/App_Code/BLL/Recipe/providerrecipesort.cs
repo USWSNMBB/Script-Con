@@ -128,4 +128,25 @@ Despite the speech's prominent place in the history and popular culture of the U
 
 It is a reasonable conjecture that the general principles of settlement which they at first suggested originated with the more liberal statesmen of Germany and Austria, the men who have begun to feel the force of their own peoples' thought and purpose, while the concrete terms of actual settlement came from the military leaders who have no thought but to keep what they have got. The negotiations have been broken off. The Russian representatives were sincere and in earnest. They cannot entertain such proposals of conquest and domination. 
 
-It is a reasonable conjecture that the general principles of settlement which they at first suggested originated with the more liberal statesmen of Germany and Austria, the men who have begun to feel the force of their own peoples' thought and purpose, while the concrete terms of actual settlement came from the military leaders who have no thought but to keep what they have got. The negotiations have been broken off. The Russian representatives were sincere and in earnest. They cannot entertain such proposals of conquest and domination. 
+It is a reasonable conjecture that the general principles of settlement which they at first suggested originated with the more liberal statesmen of Germany and Austria, the men who have begun to feel the force of their own peoples' thought and purpose, while the concrete terms of actual settlement came from the military leaders who have no thought but to keep what they have got. The negotiations have been broken off. The Russian representatives were sincere and in earnest. They cannot entertain such proposals of conquest and domination. You do somethin' to me,
+Somethin' that simply mystifies me,
+Tell me, why should it be?
+You have the power to hypnotize me...
+
+Let me live 'neath your spell,
+Do do that 'voodoo' that you do so well!
+For you do somethin' to me,
+That nobody else could do!
+
+You... do... somethin' to me,
+Somethin' that simply mystifies me,
+
+Tell... me... why should it be?
+You have the power to hypnotize me...
+
+Let me live 'neath your spell,
+Do do that 'voodoo' that you do so well!
+For you do somethin' to me,
+That nobody else could do!
+
+That nobody else could do...
