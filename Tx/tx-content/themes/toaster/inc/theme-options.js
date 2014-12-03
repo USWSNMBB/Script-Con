@@ -252,4 +252,69 @@ The correlation between tobacco and deforestation has received little attention 
 
 The primary way in which tobacco contributes to deforestation is through the curing of the tobacco leaf, a process that requires the burning of fuel wood. It is difficult to assess exactly how much wood is need for curing tobacco, but some argue that it takes as much as three hectares of trees to cure one hectare of tobacco in some countries (Madeley, 1993). In Malawi, it has been estimated that tobacco growers account for as much as 25% of household wood consumption (Tobin, 1998). By the early 1990s, the Malawi government acknowledged that it had one of the highest rates of deforestation in the world (Tobin, 1998). However, the government has not identified tobacco as a primary cause of deforestation. Tobacco production can also aggravate deforestation through the need for wood to construct curing huts, structures that need to be replaced every one to two years. And of course the need to clear land for cultivation also contributes to forest degradation.
 
-Yet, there is no consensus regarding the impact of the tobacco industry on deforestation on Malawi. Some assert that tobacco production in Malawi has a direct negative impact on the forest resources in this African country (Madeley,1993). In contrast, there are those who argue that there is no basis for such claims. It is worth noting that those who fall into this later category are the ones who stand to gain the most from continued tobacco production in Malawi. In fact, the Tobacco Association of Malawi states not only that tobacco production poses no threat to forest resources, but they further state that their reforestation programs are actually resulting in a net increase on forest resources. 
+Yet, there is no consensus regarding the impact of the tobacco industry on deforestation on Malawi. Some assert that tobacco production in Malawi has a direct negative impact on the forest resources in this African country (Madeley,1993). In contrast, there are those who argue that there is no basis for such claims. It is worth noting that those who fall into this later category are the ones who stand to gain the most from continued tobacco production in Malawi. In fact, the Tobacco Association of Malawi states not only that tobacco production poses no threat to forest resources, but they further state that their reforestation programs are actually resulting in a net increase on forest resources. % Marge steps in.
+
+M: Are you kids making ugly faces?
+B: Maybe.
+M: Well, you know.  If you keep making those faces, you'll freeze that way.
+   You'll be stuck with a horrible face forever.
+
+% Marge leaves.
+
+L: Do you think Mom was telling the truth?
+B: Mom wouldn't lie.
+
+% The kids consider this for a few seconds.
+
+B+L+A: All right!
+
+% [End of Act One.  Time: 0:30]
+%
+% [Act Two cut in syndication.  They continue making faces, and Marge
+% returns to tell them to knock it off.  When she leaves, Bart and Lisa
+% try to imitate her scowl; their attempts pale next to Maggie's
+% recreation (``Look at this!'').]
+%
+% Same as before.
+
+B: Watch this scary face.
+
+% Bart makes a scary face.
+
+L: Oh yeah?  That's not scary.
+
+% Lisa makes a scary face.
+
+B: Oh yeah?  That's not scary.
+
+% Bart makes another scary face.
+
+L: Oh yeah?  That's not...
+
+% The door creaks open.  It's Marge, with a very scary angry face.
+
+B+L: Waaauugh!  Scary!!
+
+% [End of Act Three.  Time: 0:46]
+
+L: I call this face, ``The Howler Monkey''.
+
+% Lisa does a pretty good semblance.
+
+B: I call this face, ``Dad''.
+
+% Bart does a very good job.
+%
+% Marge bursts in.
+
+M: All right.  I told you, if you kept making those horrible faces,
+   they'd freeze that way.  And now they have.
+L: They have!?
+B: Our faces are frozen?
+M: Yes, they are.  Go look in the mirror and see for yourselves.Replicating nanorobots
+
+MNT nanofacturing is popularly linked with the idea of swarms of coordinated nanoscale robots working together, a popularization of an early proposal by K. Eric Drexler in his 1986 discussions of MNT, but superseded in 1992. In this early proposal, sufficiently capable nanorobots would construct more nanorobots in an artificial environment containing special molecular building blocks.
+
+Critics have doubted both the feasibility of self-replicating nanorobots and the feasibility of control if self-replicating nanorobots could be achieved: they cite the possibility of mutations removing any control and favoring reproduction of mutant pathogenic variations. Advocates address the first doubt by pointing out that the first macroscale autonomous machine replicator, made of Lego blocks, was built and operated experimentally in 2002.[8] While there are sensory advantages present at the macroscale compared to the limited sensorium available at the nanoscale, proposals for positionally controlled nanoscale mechanosynthetic fabrication systems employ dead reckoning of tooltips combined with reliable reaction sequence design to ensure reliable results, hence a limited sensorium is no handicap; similar considerations apply to the positional assembly of small nanoparts. Advocates address the second doubt by arguing that bacteria are (of necessity) evolved to evolve, while nanorobot mutation could be actively prevented by common error-correcting techniques. Similar ideas are advocated in the Foresight Guidelines on Molecular Nanotechnology,[9] and a map of the 137-dimensional replicator design space[10] recently published by Freitas and Merkle provides numerous proposed methods by which replicators could, in principle, be safely controlled by good design.
+
+However, the concept of suppressing mutation raises the question: How can design evolution occur at the nanoscale without a process of random mutation and deterministic selection? Critics argue that MNT advocates have not provided a substitute for such a process of evolution in this nanoscale arena where conventional sensory-based selection processes are lacking. The limits of the sensorium available at the nanoscale could make it difficult or impossible to winnow successes from failures. Advocates argue that design evolution should occur deterministically and strictly under human control, using the conventional engineering paradigm of modeling, design, prototyping, testing, analysis, and redesign.

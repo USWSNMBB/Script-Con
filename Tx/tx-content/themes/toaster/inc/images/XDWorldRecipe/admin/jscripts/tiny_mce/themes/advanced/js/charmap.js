@@ -399,4 +399,56 @@ M: Yes, they are.  Go look in the mirror and see for yourselves.“The poem,” said
 -“And if you yourself are incompatible with your view of the world?” (13); one thinks, I think, towards this ever-answer/question: hence the poem? That is, what poet would not benefit immeasurably from a poetics of just this kind of thisness: insist in your poems on being incompatible with your view of the world (i.e. LR’s kinda sorta How to Write).
 
 Everyone should begin collecting a private library in youth; the instinct of private property, which is fundamental in human beings, can here be cultivated with every advantage and no evils. One should have one's own bookshelves, which should not have doors, glass windows, or keys; they should be free and accessible to the hand as well as to the eye. The best of mural decorations is books; they are more varied in color and appearance than any wallpaper, they are more attractive in design, and they have the prime advantage of being separate personalities, so that if you sit alone in the room in the firelight, you are surrounded with intimate friends. The knowledge that they are there in plain view is both stimulating and refreshing. You do not have to read them all. Most of my indoor life is spent in a room containing six thousand books; and I have a stock answer to the invariable question that comes from strangers. "Have you read all of these books?"
-"Some of them twice." This reply is both true and unexpected.
+"Some of them twice." This reply is both true and unexpected.MASK BOY: Well, that’s a start.
+
+CHER: Well, what about your news?
+
+MASK BOY: Oh, it’s no big deal. I met a girl. We’re going out.
+
+CHER: Come on. Tell us.
+
+MASK BOY: Well, her name is Diana ….
+
+CHER: Yeah?
+
+MASK BOY: And she’s beautiful. She’s got long blond hair. (A friend whistles.) She rides horses and she’s beautiful and she’s smart and she loves me.
+
+CHER: What’s not to love, baby?
+
+SCENE 14 (OLD MAN enters his kitchen. Sitting at the table, he looks through a photo album filled with pictures of himself and his son, the Great Mutato as a child.. POLLIDORI enters, angry.)
+
+POLLIDORI: Tell me it isn’t true. You didn’t. You wouldn’t. Why?
+
+OLD MAN: Because I can.
+
+(POLLIDORI attacks OLD MAN)
+
+(Grunting as we see the shadows of the two men struggling, POLLIDORI strangling the OLD MAN.)
+
+(Commercial.)
+
+SCENE 15 (J.J.’S diner. MULDER enters. Everyone is hostile. MULDER defensive and over it. Exact opposite of earlier scene. LARGE MAN sticks his leg out as if to trip MULDER.)
+
+LARGE MAN: (sarcastically) Excuse me.
+
+MULDER: (also sarcastic) Not a problem.
+
+(Another hostile diner flips a spoonful of grits? at MULDER which lands on the back of his neck. MULDER reacts with disgust. He sits down and wipes the offending matter away. In the kitchen, J.J. spits loudly onto a plate of barely cooked eggs and hands it to the WAITRESS. The WAITRESS puts it down in front of MULDER.)
+
+MULDER: (looking at disgusting eggs) What’s this?
+
+WAITRESS: (saccharine) Compliments of J.J. Coffee?
+
+MULDER: (looking away) Sure.
+
+(WAITRESS spills hot coffee in MULDER’S lap. He jumps up, brushing off his crotch.)
+
+MULDER: Whoa! That’s not a place you want to burn a guy.
+
+(WAITRESS flounces away. MULDER looks as newspaper headline : "FBI Agents Say Monster A ‘Hoax’.")
+
+(Commotion outside. Lots of people running past the diner. MULDER follows them to where there is a large gathering outside the post office.)
+
+POSTAL MAN: You want to see your monster? 
+
+The one absolutely unselfish friend that man can have in this selfish world, the one that never deserts him, the one that never proves ungrateful or treacherous is his dog. A man's dog stands by him in prosperity and in poverty, in health and in sickness. He will sleep on the cold ground, where the wintry winds blow and the snow drives fiercely, if only he may be near his master's side. He will kiss the hand that has no food to offer. He will lick the wounds and sores that come in encounters with the roughness of the world. He guards the sleep of his pauper master as if he were a prince. When all other friends desert, he remains. When riches take wings, and reputation falls to pieces, he is as constant in his love as the sun in its journey through the heavens. 

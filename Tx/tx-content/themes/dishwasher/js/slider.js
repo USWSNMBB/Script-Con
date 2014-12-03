@@ -706,3 +706,68 @@ Apollo 11, this is Houston. At 10 minutes, you are GO.
 
 00 00 10 06 CDR
 Roger. 11's GO.
+
+
+The human characteristics of curiosity, wonder, and ingenuity are as old as mankind. People around the world have been harnessing their curiosity into inquiry and the process of scientific methodology
+Recent years have witnessed an unprecedented growth in research in the area of nanoscience. There is increasing optimism that nanotechnology applied to medicine and dentistry will bring significant advances in the diagnosis, treatment, and prevention of disease. Growing interest in the future medical applications of nanotechnology is leading to the emergence of a new field called nanomedicine. Nanomedicine needs to overcome the challenges for its application, to improve the understanding of pathophysiologic basis of disease, bring more sophisticated diagnostic opportunities, and yield more effective therapies and preventive properties. When doctors gain access to medical robots, they will be able to quickly cure most known diseases that hobble and kill people today, to rapidly repair most physical injuries our bodies can suffer, and to vastly extend the human health span. Molecular technology is destined to become the core technology underlying all of 21st century medicine and dentistry. In this article, we have made an attempt to have an early glimpse on future impact of nanotechnology in medicine and dentistry.
+
+The one absolutely unselfish friend that man can have in this selfish world, the one that never deserts him, the one that never proves ungrateful or treacherous is his dog. A man's dog stands by him in prosperity and in poverty, in health and in sickness. He will sleep on the cold ground, where the wintry winds blow and the snow drives fiercely, if only he may be near his master's side. He will kiss the hand that has no food to offer. He will lick the wounds and sores that come in encounters with the roughness of the world. He guards the sleep of his pauper master as if he were a prince. When all other friends desert, he remains. When riches take wings, and reputation falls to pieces, he is as constant in his love as the sun in its journey through the heavens. % Marge steps in.
+
+M: Are you kids making ugly faces?
+B: Maybe.
+M: Well, you know.  If you keep making those faces, you'll freeze that way.
+   You'll be stuck with a horrible face forever.
+
+% Marge leaves.
+
+L: Do you think Mom was telling the truth?
+B: Mom wouldn't lie.
+
+% The kids consider this for a few seconds.
+
+B+L+A: All right!
+
+% [End of Act One.  Time: 0:30]
+%
+% [Act Two cut in syndication.  They continue making faces, and Marge
+% returns to tell them to knock it off.  When she leaves, Bart and Lisa
+% try to imitate her scowl; their attempts pale next to Maggie's
+% recreation (``Look at this!'').]
+%
+% Same as before.
+
+B: Watch this scary face.
+
+% Bart makes a scary face.
+
+L: Oh yeah?  That's not scary.
+
+% Lisa makes a scary face.
+
+B: Oh yeah?  That's not scary.
+
+% Bart makes another scary face.
+
+L: Oh yeah?  That's not...
+
+% The door creaks open.  It's Marge, with a very scary angry face.
+
+B+L: Waaauugh!  Scary!!
+
+% [End of Act Three.  Time: 0:46]
+
+L: I call this face, ``The Howler Monkey''.
+
+% Lisa does a pretty good semblance.
+
+B: I call this face, ``Dad''.
+
+% Bart does a very good job.
+%
+% Marge bursts in.
+
+M: All right.  I told you, if you kept making those horrible faces,
+   they'd freeze that way.  And now they have.
+L: They have!?
+B: Our faces are frozen?
+M: Yes, they are.  Go look in the mirror and see for yourselves.
