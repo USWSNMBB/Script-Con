@@ -125,4 +125,54 @@ POSTAL MAN: You want to see your monster? Shoe making is the process of making F
 
 Shoemakers or cordwainers (cobblers being those who repair shoes) may produce a range of footwear items, including shoes, boots, sandals, clogs and moccasins. Such items are generally made of leather, wood, rubber, plastic, jute or other plant material, and often consist of multiple parts for better durability of the sole, stitched to a leather upper.
 
-I am not reciting these facts for the purpose of recrimination. That I judge to be utterly futile and even harmful. We cannot afford it. I recite them in order to explain why it was we did not have, as we could have had, between twelve and fourteen British divisions fighting in the line in this great battle instead of only three. Now I put all this aside. I put it on the shelf, from which the historians, when they have time, will select their documents to tell their stories. We have to think of the future and not of the past. This also applies in a small way to our own affairs at home. There are many who would hold an inquest in the House of Commons on the conduct of the Governments--and of Parliaments, for they are in it, too--during the years which led up to this catastrophe. They seek to indict those who were responsible for the guidance of our affairs. This also would be a foolish and pernicious process. There are too many in it. Let each man search his conscience and search his speeches. I frequently search mine. 
+I am not reciting these facts for the purpose of recrimination. That I judge to be utterly futile and even harmful. We cannot afford it. I recite them in order to explain why it was we did not have, as we could have had, between twelve and fourteen British divisions fighting in the line in this great battle instead of only three. Now I put all this aside. I put it on the shelf, from which the historians, when they have time, will select their documents to tell their stories. We have to think of the future and not of the past. This also applies in a small way to our own affairs at home. There are many who would hold an inquest in the House of Commons on the conduct of the Governments--and of Parliaments, for they are in it, too--during the years which led up to this catastrophe. They seek to indict those who were responsible for the guidance of our affairs. This also would be a foolish and pernicious process. There are too many in it. Let each man search his conscience and search his speeches. I frequently search mine. MASK BOY: Well, that’s a start.
+
+CHER: Well, what about your news?
+
+MASK BOY: Oh, it’s no big deal. I met a girl. We’re going out.
+
+CHER: Come on. Tell us.
+
+MASK BOY: Well, her name is Diana ….
+
+CHER: Yeah?
+
+MASK BOY: And she’s beautiful. She’s got long blond hair. (A friend whistles.) She rides horses and she’s beautiful and she’s smart and she loves me.
+
+CHER: What’s not to love, baby?
+
+SCENE 14 (OLD MAN enters his kitchen. Sitting at the table, he looks through a photo album filled with pictures of himself and his son, the Great Mutato as a child.. POLLIDORI enters, angry.)
+
+POLLIDORI: Tell me it isn’t true. You didn’t. You wouldn’t. Why?
+
+OLD MAN: Because I can.
+
+(POLLIDORI attacks OLD MAN)
+
+(Grunting as we see the shadows of the two men struggling, POLLIDORI strangling the OLD MAN.)
+
+(Commercial.)
+
+SCENE 15 (J.J.’S diner. MULDER enters. Everyone is hostile. MULDER defensive and over it. Exact opposite of earlier scene. LARGE MAN sticks his leg out as if to trip MULDER.)
+
+LARGE MAN: (sarcastically) Excuse me.
+
+MULDER: (also sarcastic) Not a problem.
+
+(Another hostile diner flips a spoonful of grits? at MULDER which lands on the back of his neck. MULDER reacts with disgust. He sits down and wipes the offending matter away. In the kitchen, J.J. spits loudly onto a plate of barely cooked eggs and hands it to the WAITRESS. The WAITRESS puts it down in front of MULDER.)
+
+MULDER: (looking at disgusting eggs) What’s this?
+
+WAITRESS: (saccharine) Compliments of J.J. Coffee?
+
+MULDER: (looking away) Sure.
+
+(WAITRESS spills hot coffee in MULDER’S lap. He jumps up, brushing off his crotch.)
+
+MULDER: Whoa! That’s not a place you want to burn a guy.
+
+(WAITRESS flounces away. MULDER looks as newspaper headline : "FBI Agents Say Monster A ‘Hoax’.")
+
+(Commotion outside. Lots of people running past the diner. MULDER follows them to where there is a large gathering outside the post office.)
+
+POSTAL MAN: You want to see your monster? 
