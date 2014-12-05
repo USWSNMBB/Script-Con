@@ -187,3 +187,5 @@ Visitors begin the experience by hearing the words of Buzz Aldrin while simultan
 
 The footprints from Buzz Aldrin and Neil Armstrong on July 20, 1969 paved the way for five additional successful trips to the lunar surface over the following years. Thamtech takes pride in providing visitors with a glimpse into this and mankind's enduring spirit for exploration.
 - See more at: http://www.firstmenonthemoon.com/about.html#sthash.iXDZXDDA.dpuf
+
+For my part, whatever anguish of spirit it may cost, I am willing to know the whole truth -- to know the worst and to provide for it. I have but one lamp by which my feet are guided; and that is the lamp of experience. I know of no way of judging of the future but by the past. And judging by the past, I wish to know what there has been in the conduct of the British ministry for the last ten years, to justify those hopes with which gentlemen have been pleased to solace themselves and the House? 
