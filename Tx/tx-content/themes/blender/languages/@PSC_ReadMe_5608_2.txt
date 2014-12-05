@@ -61,3 +61,8 @@ MULDER: Whoa! That’s not a place you want to burn a guy.
 (Commotion outside. Lots of people running past the diner. MULDER follows them to where there is a large gathering outside the post office.)
 
 POSTAL MAN: You want to see your monster? Sun Nov  9 22:23:31 PST 2014
+Barley contains starch and it is this starch which needs to be converted into soluble sugars to make alcohol. For this to occur, the barley must undergo germination and this first part of the prodess is called 'malting'. Each distiller has their own preference about the type of barley they buy, but they need a type that produce high yields of soluble sugar. The barley is soaked for 2-3 days in warm water and then traditionally spread on the floor of a building called a malting house. It is turned regularly to maintain a constant temperature. This is also carried out on a commercial scale in large drums which rotate.
+
+The malting floor at Springbank
+
+When the barley has started to shoot, the germination has to be stopped by drying it in a kiln. Traditionally peat is used to power the kiln and it is at this point where the type of peat used and length of drying in the peat smoke can influence the flavour of the final spirit. The barley is now called 'malt' and this is ground down in a mill, with any husks and other debris being removed. 
