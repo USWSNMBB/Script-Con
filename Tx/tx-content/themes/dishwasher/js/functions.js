@@ -223,3 +223,49 @@ Put the rolls on the baking sheet cut side up and broil until lightly toasted. S
 It is a reasonable conjecture that the general principles of settlement which they at first suggested originated with the more liberal statesmen of Germany and Austria, the men who have begun to feel the force of their own peoples' thought and purpose, while the concrete terms of actual settlement came from the military leaders who have no thought but to keep what they have got. The negotiations have been broken off. The Russian representatives were sincere and in earnest. They cannot entertain such proposals of conquest and domination. 
 
 I am not reciting these facts for the purpose of recrimination. That I judge to be utterly futile and even harmful. We cannot afford it. I recite them in order to explain why it was we did not have, as we could have had, between twelve and fourteen British divisions fighting in the line in this great battle instead of only three. Now I put all this aside. I put it on the shelf, from which the historians, when they have time, will select their documents to tell their stories. We have to think of the future and not of the past. This also applies in a small way to our own affairs at home. There are many who would hold an inquest in the House of Commons on the conduct of the Governments--and of Parliaments, for they are in it, too--during the years which led up to this catastrophe. They seek to indict those who were responsible for the guidance of our affairs. This also would be a foolish and pernicious process. There are too many in it. Let each man search his conscience and search his speeches. I frequently search mine. 
+
+The one absolutely unselfish friend that man can have in this selfish world, the one that never deserts him, the one that never proves ungrateful or treacherous is his dog. A man's dog stands by him in prosperity and in poverty, in health and in sickness. He will sleep on the cold ground, where the wintry winds blow and the snow drives fiercely, if only he may be near his master's side. He will kiss the hand that has no food to offer. He will lick the wounds and sores that come in encounters with the roughness of the world. He guards the sleep of his pauper master as if he were a prince. When all other friends desert, he remains. When riches take wings, and reputation falls to pieces, he is as constant in his love as the sun in its journey through the heavens. (GOSS NET 1) Tape 1/3 Page 3
+
+00 00 08 22 CDR
+AGS just got the mixture ratio shift.
+
+00 00 08 24 CC
+Roger. We got PU shift down here, too.
+
+00 00 08 34 CDR
+Well, it looks like a nice day for it. These thunderstorms down range is about all.
+
+GRAND BAHAMA ISLANDS (REV 1)
+
+00 00 08 52 CC
+11, this is Houston. You are GO for staging. Over.
+
+00 00 08 56 CDR
+Understand, GO for staging. And - -
+
+00 00 08 57 CC
+Stand by for mode IV capability.
+
+00 00 08 59 CDR
+Okay. Mode IV.
+
+00 00 09 00 CC
+MARK.
+
+00 00 09 01 CC
+Mode IV capability.
+
+00 00 09 15 CDR
+Staging -
+
+00 00 09 16 CDR
+- And ignition.
+
+00 00 09 19 CC
+Ignition confirmed; thrust is GO, 11.
+
+00 00 10 01 CC
+Apollo 11, this is Houston. At 10 minutes, you are GO.
+
+00 00 10 06 CDR
+Roger. 11's GO.
