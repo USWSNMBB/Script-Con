@@ -98,4 +98,84 @@ It is a reasonable conjecture that the general principles of settlement which th
 
 The year Armies was published, 1968, Mailer would begin work on another project, Miami and the Siege of Chicago, after witnessing the Republican and Democratic National Conventions that year. Mailer's recounting, though quite different in terms of his self-portrait, takes on a comparable rhetorical approach to evoking what he saw as historical underpinnings.
 
-For my part, whatever anguish of spirit it may cost, I am willing to know the whole truth -- to know the worst and to provide for it. I have but one lamp by which my feet are guided; and that is the lamp of experience. I know of no way of judging of the future but by the past. And judging by the past, I wish to know what there has been in the conduct of the British ministry for the last ten years, to justify those hopes with which gentlemen have been pleased to solace themselves and the House? 
+For my part, whatever anguish of spirit it may cost, I am willing to know the whole truth -- to know the worst and to provide for it. I have but one lamp by which my feet are guided; and that is the lamp of experience. I know of no way of judging of the future but by the past. And judging by the past, I wish to know what there has been in the conduct of the British ministry for the last ten years, to justify those hopes with which gentlemen have been pleased to solace themselves and the House? % Marge steps in.
+
+M: Are you kids making ugly faces?
+B: Maybe.
+M: Well, you know.  If you keep making those faces, you'll freeze that way.
+   You'll be stuck with a horrible face forever.
+
+% Marge leaves.
+
+L: Do you think Mom was telling the truth?
+B: Mom wouldn't lie.
+
+% The kids consider this for a few seconds.
+
+B+L+A: All right!
+
+% [End of Act One.  Time: 0:30]
+%
+% [Act Two cut in syndication.  They continue making faces, and Marge
+% returns to tell them to knock it off.  When she leaves, Bart and Lisa
+% try to imitate her scowl; their attempts pale next to Maggie's
+% recreation (``Look at this!'').]
+%
+% Same as before.
+
+B: Watch this scary face.
+
+% Bart makes a scary face.
+
+L: Oh yeah?  That's not scary.
+
+% Lisa makes a scary face.
+
+B: Oh yeah?  That's not scary.
+
+% Bart makes another scary face.
+
+L: Oh yeah?  That's not...
+
+% The door creaks open.  It's Marge, with a very scary angry face.
+
+B+L: Waaauugh!  Scary!!
+
+% [End of Act Three.  Time: 0:46]
+
+L: I call this face, ``The Howler Monkey''.
+
+% Lisa does a pretty good semblance.
+
+B: I call this face, ``Dad''.
+
+% Bart does a very good job.
+%
+% Marge bursts in.
+
+M: All right.  I told you, if you kept making those horrible faces,
+   they'd freeze that way.  And now they have.
+L: They have!?
+B: Our faces are frozen?
+M: Yes, they are.  Go look in the mirror and see for yourselves.You do somethin' to me,
+Somethin' that simply mystifies me,
+Tell me, why should it be?
+You have the power to hypnotize me...
+
+Let me live 'neath your spell,
+Do do that 'voodoo' that you do so well!
+For you do somethin' to me,
+That nobody else could do!
+
+You... do... somethin' to me,
+Somethin' that simply mystifies me,
+
+Tell... me... why should it be?
+You have the power to hypnotize me...
+
+Let me live 'neath your spell,
+Do do that 'voodoo' that you do so well!
+For you do somethin' to me,
+That nobody else could do!
+
+That nobody else could do...
