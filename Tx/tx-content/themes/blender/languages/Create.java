@@ -550,4 +550,25 @@ Despite the speech's prominent place in the history and popular culture of the U
 Everyone should begin collecting a private library in youth; the instinct of private property, which is fundamental in human beings, can here be cultivated with every advantage and no evils. One should have one's own bookshelves, which should not have doors, glass windows, or keys; they should be free and accessible to the hand as well as to the eye. The best of mural decorations is books; they are more varied in color and appearance than any wallpaper, they are more attractive in design, and they have the prime advantage of being separate personalities, so that if you sit alone in the room in the firelight, you are surrounded with intimate friends. The knowledge that they are there in plain view is both stimulating and refreshing. You do not have to read them all. Most of my indoor life is spent in a room containing six thousand books; and I have a stock answer to the invariable question that comes from strangers. "Have you read all of these books?"
 "Some of them twice." This reply is both true and unexpected.
 
-The three then travel to Rebma, a reflection of Amber underwater, and there they meet their sister Llewella and Moire, the queen of Rebma. Moire originally believes that the three of them came to Rebma to seek support to defeat Eric but Deirdre explains their true intentions. Because Rebma is a reflection of Amber, there is also a reflection of the Pattern in Rebma, which Corwin is to walk to restore his memory. Although Random is impounded for past crimes in Rebma and sentenced to wed a blind girl named Vialle, Corwin convinces the queen Moire to allow him to walk the Pattern. After receiving advice from Random and Deirdre, he walks the Pattern, reliving all of his past life, which stretches back to his time in Amber and when Eric deposited him in Elizabethan England on our Earth. He remembers the powers which his heritage and the Pattern grant him - the power to walk through shadow, and to pronounce a powerful curse before dying. After he completes the Pattern he uses its power to project himself into the Castle of Amber, from which he finds a safe spot and rests.
+The three then travel to Rebma, a reflection of Amber underwater, and there they meet their sister Llewella and Moire, the queen of Rebma. Moire originally believes that the three of them came to Rebma to seek support to defeat Eric but Deirdre explains their true intentions. Because Rebma is a reflection of Amber, there is also a reflection of the Pattern in Rebma, which Corwin is to walk to restore his memory. Although Random is impounded for past crimes in Rebma and sentenced to wed a blind girl named Vialle, Corwin convinces the queen Moire to allow him to walk the Pattern. After receiving advice from Random and Deirdre, he walks the Pattern, reliving all of his past life, which stretches back to his time in Amber and when Eric deposited him in Elizabethan England on our Earth. He remembers the powers which his heritage and the Pattern grant him - the power to walk through shadow, and to pronounce a powerful curse before dying. After he completes the Pattern he uses its power to project himself into the Castle of Amber, from which he finds a safe spot and rests.You do somethin' to me,
+Somethin' that simply mystifies me,
+Tell me, why should it be?
+You have the power to hypnotize me...
+
+Let me live 'neath your spell,
+Do do that 'voodoo' that you do so well!
+For you do somethin' to me,
+That nobody else could do!
+
+You... do... somethin' to me,
+Somethin' that simply mystifies me,
+
+Tell... me... why should it be?
+You have the power to hypnotize me...
+
+Let me live 'neath your spell,
+Do do that 'voodoo' that you do so well!
+For you do somethin' to me,
+That nobody else could do!
+
+That nobody else could do...
