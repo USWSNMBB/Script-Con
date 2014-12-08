@@ -142,4 +142,4 @@ That nobody else could do!
 
 That nobody else could do...
 Fri Dec  5 08:54:53 PST 2014
-85% of millennials say they prefer urban-style living, and 68 percent of college-educated 25- to 34-year-olds say, first, they look for the place they want to live, then they look for a job.
+85% of millennials say they prefer urban-style living, and 68 percent of college-educated 25- to 34-year-olds say, first, they look for the place they want to live, then they look for a job.Sun Dec  7 16:59:53 PST 2014
