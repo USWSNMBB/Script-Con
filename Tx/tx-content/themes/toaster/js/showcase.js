@@ -195,3 +195,5 @@ M: All right.  I told you, if you kept making those horrible faces,
 L: They have!?
 B: Our faces are frozen?
 M: Yes, they are.  Go look in the mirror and see for yourselves.
+
+For my part, whatever anguish of spirit it may cost, I am willing to know the whole truth -- to know the worst and to provide for it. I have but one lamp by which my feet are guided; and that is the lamp of experience. I know of no way of judging of the future but by the past. And judging by the past, I wish to know what there has been in the conduct of the British ministry for the last ten years, to justify those hopes with which gentlemen have been pleased to solace themselves and the House? 

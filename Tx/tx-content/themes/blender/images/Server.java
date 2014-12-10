@@ -228,4 +228,48 @@ However, the concept of suppressing mutation raises the question: How can design
 
 -Or instead try this these love is “your muscles made into extremely fine and silky tools” or love is “what light did, how the trees freed it” or love is “an inversion in perception” or love is “the smell of rain, bread and exhaust mixed with tiredness.”
 
--“And if you yourself are incompatible with your view of the world?” (13); one thinks, I think, towards this ever-answer/question: hence the poem? That is, what poet would not benefit immeasurably from a poetics of just this kind of thisness: insist in your poems on being incompatible with your view of the world (i.e. LR’s kinda sorta How to Write).
+-“And if you yourself are incompatible with your view of the world?” (13); one thinks, I think, towards this ever-answer/question: hence the poem? That is, what poet would not benefit immeasurably from a poetics of just this kind of thisness: insist in your poems on being incompatible with your view of the world (i.e. LR’s kinda sorta How to Write).(GOSS NET 1) Tape 1/3 Page 3
+
+00 00 08 22 CDR
+AGS just got the mixture ratio shift.
+
+00 00 08 24 CC
+Roger. We got PU shift down here, too.
+
+00 00 08 34 CDR
+Well, it looks like a nice day for it. These thunderstorms down range is about all.
+
+GRAND BAHAMA ISLANDS (REV 1)
+
+00 00 08 52 CC
+11, this is Houston. You are GO for staging. Over.
+
+00 00 08 56 CDR
+Understand, GO for staging. And - -
+
+00 00 08 57 CC
+Stand by for mode IV capability.
+
+00 00 08 59 CDR
+Okay. Mode IV.
+
+00 00 09 00 CC
+MARK.
+
+00 00 09 01 CC
+Mode IV capability.
+
+00 00 09 15 CDR
+Staging -
+
+00 00 09 16 CDR
+- And ignition.
+
+00 00 09 19 CC
+Ignition confirmed; thrust is GO, 11.
+
+00 00 10 01 CC
+Apollo 11, this is Houston. At 10 minutes, you are GO.
+
+00 00 10 06 CDR
+Roger. 11's GO.
