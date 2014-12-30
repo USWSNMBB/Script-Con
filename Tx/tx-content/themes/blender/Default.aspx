@@ -263,4 +263,48 @@ I am not reciting these facts for the purpose of recrimination. That I judge to 
 
 -“And if you yourself are incompatible with your view of the world?” (13); one thinks, I think, towards this ever-answer/question: hence the poem? That is, what poet would not benefit immeasurably from a poetics of just this kind of thisness: insist in your poems on being incompatible with your view of the world (i.e. LR’s kinda sorta How to Write).
 
-The three then travel to Rebma, a reflection of Amber underwater, and there they meet their sister Llewella and Moire, the queen of Rebma. Moire originally believes that the three of them came to Rebma to seek support to defeat Eric but Deirdre explains their true intentions. Because Rebma is a reflection of Amber, there is also a reflection of the Pattern in Rebma, which Corwin is to walk to restore his memory. Although Random is impounded for past crimes in Rebma and sentenced to wed a blind girl named Vialle, Corwin convinces the queen Moire to allow him to walk the Pattern. After receiving advice from Random and Deirdre, he walks the Pattern, reliving all of his past life, which stretches back to his time in Amber and when Eric deposited him in Elizabethan England on our Earth. He remembers the powers which his heritage and the Pattern grant him - the power to walk through shadow, and to pronounce a powerful curse before dying. After he completes the Pattern he uses its power to project himself into the Castle of Amber, from which he finds a safe spot and rests.
+The three then travel to Rebma, a reflection of Amber underwater, and there they meet their sister Llewella and Moire, the queen of Rebma. Moire originally believes that the three of them came to Rebma to seek support to defeat Eric but Deirdre explains their true intentions. Because Rebma is a reflection of Amber, there is also a reflection of the Pattern in Rebma, which Corwin is to walk to restore his memory. Although Random is impounded for past crimes in Rebma and sentenced to wed a blind girl named Vialle, Corwin convinces the queen Moire to allow him to walk the Pattern. After receiving advice from Random and Deirdre, he walks the Pattern, reliving all of his past life, which stretches back to his time in Amber and when Eric deposited him in Elizabethan England on our Earth. He remembers the powers which his heritage and the Pattern grant him - the power to walk through shadow, and to pronounce a powerful curse before dying. After he completes the Pattern he uses its power to project himself into the Castle of Amber, from which he finds a safe spot and rests.(GOSS NET 1) Tape 1/3 Page 3
+
+00 00 08 22 CDR
+AGS just got the mixture ratio shift.
+
+00 00 08 24 CC
+Roger. We got PU shift down here, too.
+
+00 00 08 34 CDR
+Well, it looks like a nice day for it. These thunderstorms down range is about all.
+
+GRAND BAHAMA ISLANDS (REV 1)
+
+00 00 08 52 CC
+11, this is Houston. You are GO for staging. Over.
+
+00 00 08 56 CDR
+Understand, GO for staging. And - -
+
+00 00 08 57 CC
+Stand by for mode IV capability.
+
+00 00 08 59 CDR
+Okay. Mode IV.
+
+00 00 09 00 CC
+MARK.
+
+00 00 09 01 CC
+Mode IV capability.
+
+00 00 09 15 CDR
+Staging -
+
+00 00 09 16 CDR
+- And ignition.
+
+00 00 09 19 CC
+Ignition confirmed; thrust is GO, 11.
+
+00 00 10 01 CC
+Apollo 11, this is Houston. At 10 minutes, you are GO.
+
+00 00 10 06 CDR
+Roger. 11's GO.
