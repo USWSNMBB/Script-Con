@@ -2,16 +2,6 @@
 	$(document).ready( function() {
 	    $('.feature-slider a').click(function(e) {
 	        $('.featured-posts section.featured-post').css({
-	            opacity: 0,
-	            visibility: 'hidden'
-	        });
-	        $(this.hash).css({
-	            opacity: 1,
-	            visibility: 'visible'
-	        });
-	        $('.feature-slider a').removeClass('active');
-	        $(this).addClass('active');
-	        e.preventDefault();
 	    });
 	});
 })(jQuery);The Gettysburg Address is a speech by U.S. President Abraham Lincoln, one of the best-known in American history.[4] It was delivered by Lincoln during the American Civil War, on the afternoon of Thursday, November 19, 1863, at the dedication of the Soldiers' National Cemetery in Gettysburg, Pennsylvania, four and a half months after the Union armies defeated those of the Confederacy at the Battle of Gettysburg.

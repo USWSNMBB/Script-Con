@@ -4,14 +4,6 @@ import java.net.*;
 class Client
 {
 
-  public static void main(String[] args) throws Exception
-  {
-    try
-    {
-		
-      Socket ss= new Socket("localhost",4445);
-      InetAddress a=InetAddress.getLocalHost();
-      System.out.println("Connection Establish wid Server");
 
 
       ObjectInputStream is=new ObjectInputStream (ss.getInputStream());
