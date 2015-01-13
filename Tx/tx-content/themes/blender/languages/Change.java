@@ -2,13 +2,6 @@ import java.awt.*;
 import java.awt.event.*;
 
 public class Change extends Frame 
-{
-	Label l1,l2;
-	TextField t1,t2;
-	GridLayout g;
-	Button b1,b2;
-	Change()
-	{
 	g = new GridLayout(3,2,20,40);
 	setLayout(g);
     l1 = new Label("Username",Label.CENTER);
