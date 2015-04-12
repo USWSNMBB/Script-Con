@@ -308,3 +308,4 @@ Apollo 11, this is Houston. At 10 minutes, you are GO.
 
 00 00 10 06 CDR
 Roger. 11's GO.
+Sun Apr 12 13:35:06 PDT 2015
